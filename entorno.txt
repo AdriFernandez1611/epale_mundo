@@ -14,3 +14,6 @@ python manage.py runserver
 
 crear un servidor
 python manage.py startapp nombre de la aplicacion
+
+
+pip freeze > requirements.txt  ---> comando para los requerimientos librerias instaladas
